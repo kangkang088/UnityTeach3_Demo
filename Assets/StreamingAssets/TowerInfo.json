@@ -1,0 +1,11 @@
+[
+{"id":1,"name":"加农炮1","money":200,"atk":5,"atkRange":10,"offsetTime":1,"nextLevel":2,"imgRes":"TowerImage/1-1","res":"Tower/1-1","atkType":1,"eff":"Eff/Fire1"},
+{"id":2,"name":"加农炮2","money":300,"atk":10,"atkRange":11,"offsetTime":1,"nextLevel":3,"imgRes":"TowerImage/1-2","res":"Tower/1-2","atkType":1,"eff":"Eff/Fire1"},
+{"id":3,"name":"加农炮3","money":400,"atk":20,"atkRange":12,"offsetTime":1,"nextLevel":0,"imgRes":"TowerImage/1-3","res":"Tower/1-3","atkType":1,"eff":"Eff/Fire1"},
+{"id":4,"name":"机枪炮1","money":200,"atk":2,"atkRange":13,"offsetTime":1.2,"nextLevel":5,"imgRes":"TowerImage/2-1","res":"Tower/2-1","atkType":1,"eff":"Eff/Fire1"},
+{"id":5,"name":"机枪炮2","money":300,"atk":4,"atkRange":14,"offsetTime":1.2,"nextLevel":6,"imgRes":"TowerImage/2-2","res":"Tower/2-2","atkType":1,"eff":"Eff/Fire1"},
+{"id":6,"name":"机枪炮3","money":400,"atk":6,"atkRange":15,"offsetTime":1.2,"nextLevel":0,"imgRes":"TowerImage/2-3","res":"Tower/2-3","atkType":1,"eff":"Eff/Fire1"},
+{"id":7,"name":"闪电炮1","money":200,"atk":3,"atkRange":16,"offsetTime":2,"nextLevel":8,"imgRes":"TowerImage/3-1","res":"Tower/3-1","atkType":2,"eff":"Eff/Fire2"},
+{"id":8,"name":"闪电炮2","money":300,"atk":6,"atkRange":17,"offsetTime":2,"nextLevel":9,"imgRes":"TowerImage/3-2","res":"Tower/3-2","atkType":2,"eff":"Eff/Fire2"},
+{"id":9,"name":"闪电炮3","money":400,"atk":9,"atkRange":18,"offsetTime":2,"nextLevel":0,"imgRes":"TowerImage/3-3","res":"Tower/3-3","atkType":2,"eff":"Eff/Fire2"}
+]
